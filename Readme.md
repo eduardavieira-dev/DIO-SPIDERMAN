@@ -61,7 +61,7 @@ O projeto está organizado da seguinte maneira:
 - `scripts/script.js`: Arquivo JavaScript contendo a lógica de manipulação do DOM, controle do carrossel e implementação do efeito hover.
 - `pages`: Pasta contendo todas as páginas dos filmes de cada Homem Aranha.
 - `images`: Pasta com todas as imagens usadas nas páginas
-- `video`: Pasta com todos os videos usados no background das páginas do sistema.
+- `videos`: Pasta com todos os videos usados no background das páginas do sistema.
 
 ## Design no Figma
 

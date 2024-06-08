@@ -46,7 +46,7 @@ O JavaScript foi usado para manipular os elementos do DOM e implementar a lógic
 
 2. **Abra o projeto**: Navegue até o diretório do projeto e abra o arquivo `index.html` em seu navegador, de preferência o chrome.
 
-3. **Explore o Carrossel 3D**: A aplicação irá carregar o carrossel 3D automaticamente ao ser aberta. Use as setas de navegação para explorar as diferentes imagens do Homem-Aranha.
+3. **Explore o Carrossel 3D**: A aplicação irá carregar o carrossel 3D automaticamente ao ser aberta. Use os botões de navegação para explorar as diferentes imagens do Homem-Aranha e girar o carrossel.
 
 4. **Assista os Vídeos de Fundo**: Ao acessar as sinopses dos filmes, vídeos de fundo serão carregados automaticamente, proporcionando uma experiência visual imersiva.
 

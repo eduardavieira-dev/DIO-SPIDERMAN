@@ -42,7 +42,7 @@ O JavaScript foi usado para manipular os elementos do DOM e implementar a lógic
 
 ## Como Executar o Projeto
 
-1. **Clone o repositório**: Clone este repositório para sua máquina local usando `git clone`.
+1. **Clone o repositório**: Clone este repositório para sua máquina local usando `git clone https://github.com/eduardavieira-dev/DIO-SPIDERMAN.git` no seu terminal do VS Code.Lembrando que é necessário ter o Git instalado na sua maquina para executar este comando, caso não tenha faça um `Download zip` e você terá na sua maquina a pasta zip dos arquivos.
 
 2. **Abra o projeto**: Navegue até o diretório do projeto e abra o arquivo `index.html` em seu navegador preferido.
 
